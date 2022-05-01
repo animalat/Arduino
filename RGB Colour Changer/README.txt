@@ -1,5 +1,7 @@
 Made by: Action
 
+It uses a rotary encoder and an RGB LED... as you turn the rotary encoder, the RGB LED starts to scroll through the colour wheel.
+
 Plug in the rotary encoder like this:
 CLK --> PIN 2
 DT --> PIN 3
