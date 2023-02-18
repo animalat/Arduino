@@ -1,3 +1,4 @@
+The original code is from my computer science teacher and made a lot of additions. This is for my future self lol
 Arduino pins:
 Buzzer -> Pin 10
 {Red, Green, Yellow, Blue Buttons} -> 6, 7, 8, 9
@@ -5,4 +6,3 @@ Buzzer -> Pin 10
 
 Change sequence[] size if you're able to do better than 100 times.
 
-The original code is from my computer science teacher and I made a lot of additions.
