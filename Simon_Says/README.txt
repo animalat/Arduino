@@ -4,5 +4,4 @@ Buzzer -> Pin 10
 {Red, Green, Yellow, Blue Buttons} -> 6, 7, 8, 9
 {Red, Green, Yellow, Blue LEDs} -> 2, 3, 4, 5
 
-Change sequence[] size if you're able to do better than 100 times.
-
+Can only do a sequence up to 100 because the sequence[] is set to a size of 100.
