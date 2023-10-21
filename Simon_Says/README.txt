@@ -1,5 +1,4 @@
-The original code is from my computer science teacher and made a lot of additions. This is for my future self lol
-Arduino pins:
+The original code is from my computer science teacher and made a lot of additions. Created in 2022.
 Buzzer -> Pin 10
 {Red, Green, Yellow, Blue Buttons} -> 6, 7, 8, 9
 {Red, Green, Yellow, Blue LEDs} -> 2, 3, 4, 5
