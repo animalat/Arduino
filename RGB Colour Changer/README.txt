@@ -1,4 +1,4 @@
-Made by: Action
+Made by: Action, 2021
 
 It uses a rotary encoder and an RGB LED... as you turn the rotary encoder, the RGB LED starts to scroll through the colour wheel.
 
