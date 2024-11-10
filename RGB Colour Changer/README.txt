@@ -15,8 +15,5 @@ BluePin --> 9
 It should then work once the arduino is plugged in and turned on.
 It also prints to the console what value it's at (kind of fun if you want to know)
 
-Sorry about the terrible variable names and bad commenting. This was made a little while ago so the code may not be the greatest. 
-It's not too complicated so you should be able to understand it.
-
 Basically it just increases a main colour value, if it goes past 255, it starts mixing two colours. 
 Example, if R=255 --> Start mixing 255R + nG until G>255. After, subtract from R colour value until R=0 --> Then add B until B=255, and so on.
